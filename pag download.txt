@@ -1,0 +1,15 @@
+<div>&nbsp;</div>
+<a href="yourfile.xxx" target="_blak">""word""</a>"
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+
+local onde quiser que o link apareça:
+ ''<a href="seuarquivo.xxx" target="_blank">'''palavra'''</a>''
+
+
+
+<div>&nbsp;</div>
+<a href="yourfile.xxx" target="_blak">""dowload here""</a>"
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+
